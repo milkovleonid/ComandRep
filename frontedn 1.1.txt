@@ -83,7 +83,6 @@
     
     <!-- Список задач -->
     <ul id="task-list">
-        <!-- Задачи будут добавляться здесь через JavaScript -->
     </ul>
     <script>
     document.addEventListener('DOMContentLoaded', () => {
