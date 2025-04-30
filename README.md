@@ -4,7 +4,6 @@
 Frontend: HTML, CSS, JavaScript
 Backend: Python + Flask
 База данных: SQLite / MongoDB (на текущем этапе локальное хранилище)
-
 Система контроля версий: Git (GitHub/GitLab)
 
 Управление задачами: Yandex Tracker
