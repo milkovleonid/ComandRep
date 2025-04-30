@@ -10,4 +10,4 @@ Backend: Python + Flask
 
 Система контроля версий: Git (GitHub/GitLab)
 
-Управление задачами: YandexTracker
+Управление задачами: Yandex Tracker
